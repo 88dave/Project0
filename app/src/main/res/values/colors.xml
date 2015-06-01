@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="lightorange">#eca66a</color>
+    <color name="udacityorange">#f08c35</color>
+    <color name="darkorange">#cb6c1a</color>
+    <color name="pink">#f59ec8</color>
+    <color name="neonpink">#f02b8a</color>
+    <color name="darkpink">#ca166d</color>
+
+</resources>
