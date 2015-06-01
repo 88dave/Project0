@@ -13,11 +13,11 @@
     <style name="AllButtons" parent="General">
         <item name="android:onClick">toastMe</item>
     </style>
-    <style name="MostButtonsStyle" parent="General" >
+    <style name="MostButtonsStyle" parent="AllButtons" >
         <item name="android:background">@drawable/mostbuttons</item>
         <item name="android:layout_marginBottom">10dp</item>
     </style>
-    <style name="CapstoneButtonStyle" >
+    <style name="CapstoneButtonStyle" parent="AllButtons" >
         <item name="android:background">@drawable/capstonebutton</item>
     </style>
     <style name="Title" parent="General">
